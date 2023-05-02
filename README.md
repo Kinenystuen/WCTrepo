@@ -1,1 +1,1 @@
-# WCTrepo
+# Web and Communications Technology repo
